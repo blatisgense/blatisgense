@@ -5,7 +5,7 @@
 - 📫 How to reach me ... 1000000$
 
 
-Im begining Front-end dev. from Belarus
+Im Front-end dev. from Belarus
 <br>
 <b>@blatisgense</b>
 <!---
