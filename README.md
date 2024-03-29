@@ -74,7 +74,7 @@
     </div>
     <div>
         <img src="assets/joke.svg" width="380" alt="Joke">
-    </div> 
+    </div>    
 </div>
 <h2>Contacts:</h2>
 <p>If you notice any bug, or you want to suggest an idea, please contact me.</p>
@@ -82,4 +82,5 @@
     <li><b><a href="https://t.me/Blatisgense">Telegram </a></b>@Blatisgense (best way)</li>
     <li><b><a href="https://discordapp.com/users/559703556295360512">Discord </a></b>blatisgense</li>
     <li><b><a href="mailto:lavr.marudenko@gmail.com">Email </a></b>lavr.marudenko@gmail.com</li>
+    <li><b><a href="https://www.linkedin.com/in/blatisgense/">LinkedIn </a></b>Marudenko Lavrentij</li>
 </ul>
