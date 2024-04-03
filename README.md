@@ -71,10 +71,7 @@
     </div>
     <div>
         <img src="https://www.codewars.com/users/blatisgense/badges/large?theme=light" width="380" alt="Codewars">
-    </div>
-    <div>
-        <img src="assets/joke.svg" width="380" alt="Joke">
-    </div>    
+    </div> 
 </div>
 <h2>Contacts:</h2>
 <p>If you notice any bug, or you want to suggest an idea, please contact me.</p>
