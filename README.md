@@ -64,7 +64,7 @@
 <h3>Funny badges:</h3>
 <div align="center">
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blatisgense&layout=pie&theme=light&show_icons=true&hide=html,makefile,dockerfile" alt="Top Langs" width="380">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blatisgense&layout=pie&theme=light&show_icons=true&hide=html,makefile,dockerfile,css" alt="Top Langs" width="380">
     </div>
     <div>
         <img src="assets/wfh.gif" width="180" alt="Working from home">
